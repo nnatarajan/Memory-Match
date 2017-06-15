@@ -1,0 +1,32 @@
+
+body{
+    text-align: center;
+    background-color: green;
+
+}
+
+p {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 2.5em;
+}
+
+h1{
+    color: palevioletred;
+    font-style: italic;
+    padding: 1em;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: auto auto;
+}
+
+.card {
+    background-color: palevioletred;
+    border: 0.5em solid whitesmoke;
+    
+}
