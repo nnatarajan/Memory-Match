@@ -2,14 +2,14 @@
 body{
     text-align: center;
     background-color: green;
-
+    margin-right: 10em;
 }
 
 p {
     color: whitesmoke;
     text-align: center;
     font-size: 35px;
-    padding-top: 2.5em;
+    padding-top: 0.5em;
 }
 
 h1{
@@ -28,5 +28,6 @@ h1{
 .card {
     background-color: palevioletred;
     border: 0.5em solid whitesmoke;
-    
+    max-height: 12em; 
+    max-width: 12em;   
 }
